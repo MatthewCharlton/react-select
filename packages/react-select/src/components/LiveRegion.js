@@ -1,7 +1,7 @@
 // @flow
 /** @jsx jsx */
 import React, { type Node, useMemo } from 'react';
-import { jsx } from '@emotion/react';
+import { jsx } from '@emotion/core';
 import A11yText from '../internal/A11yText';
 import {
   defaultAriaLiveMessages,
